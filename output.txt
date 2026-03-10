@@ -1,0 +1,7 @@
+number: "3"
+term: "+"
+number: "5"
+term: "-"
+invalid: "x"
+term: "="
+number: "7"
